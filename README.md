@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixuan1998)](https://github.com/zhixuan1998/github-readme-stats)
 
 <!--
 **zhixuan1998/zhixuan1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
