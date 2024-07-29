@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Zhi Xuan 👋
+### A Fullstack Web Developer with 2 years experience.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixuan1998)
 
 <!--
